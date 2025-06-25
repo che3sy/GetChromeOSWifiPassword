@@ -21,3 +21,5 @@ How to get wifi password of an enterprise Chromebook in plaintext
 9. Then type ``ls``
 10. You will see two files ending in .profile, the default.profile has all the wifi info
 11. type ``cat default.profile | grep Password`` to get wifi password (or any other info on the wifi) 
+
+# VIDEO: https://youtu.be/q45He6jypyA 
