@@ -1,4 +1,4 @@
-# GetChromeOSWifiPassword-
+# GetChromeOSWifiPassword
 How to get wifi password of an enterprise Chromebook in plaintext
 
 1.  Unenroll the Chromebook from the enterprise using any method
