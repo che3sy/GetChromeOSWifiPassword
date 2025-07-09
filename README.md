@@ -1,7 +1,7 @@
 # GetChromeOSWifiPassword
 How to get wifi password of an enterprise Chromebook in plaintext
 
-1.  Unenroll the Chromebook from the enterprise using any method
+1.  Unenroll the Chromebook from enterprise using any method
 2.  Activate dev mode and set the root password
     - enter recovery using esc + power + refresh
     - ctrl + d
