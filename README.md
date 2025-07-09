@@ -22,4 +22,8 @@ How to get wifi password of an enterprise Chromebook in plaintext
 10. You will see two files ending in .profile, the default.profile has all the wifi info
 11. type ``cat default.profile | grep Password`` to get wifi password (or any other info on the wifi) 
 
+If you can connect to the network but not search for anything on google, then you might need to get a certificate for the wifi. 
+To do this, find a chromebook that is enrolled and go to settings(in chrome) and search for certificates. Go and download all the server or authority certificates you see. if chrome://policy is unblocked, you could go their and also find the certifiates. 
+After this, you can load the CA's on an unblocked Chromebook, and the wifi will work. 
+
 # VIDEO: https://youtu.be/q45He6jypyA 
