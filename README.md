@@ -16,7 +16,7 @@ How to get wifi password of an enterprise Chromebook in plaintext
 6. Enter the terminal(ctrl + alt + → (the one on top of keyboard))
 7. Log in
    - login name: root
-   - password: whatever you set, default is test00000
+   - password: whatever you set, default is test0000 (num of zeros can dependend, google model)
 8. type ``cd /var/cache/shill``
 9. Then type ``ls``
 10. You will see two files ending in .profile, the default.profile has all the wifi info
